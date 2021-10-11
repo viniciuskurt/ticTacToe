@@ -6,7 +6,7 @@ Criado Jogo da Velha online com Framemork Angular CLI 12.2.
 
 
 
-![](D:\Projects\ticTacToe\TicTacToe.gif)
+![](.\TicTacToe.gif)
 
 
 
